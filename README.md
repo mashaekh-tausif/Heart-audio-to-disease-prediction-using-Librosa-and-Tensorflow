@@ -1,4 +1,4 @@
-# Biomed Datathon 2024 - Team Cookie Monsters
+# Biomed Datathon 2024 - Team 100% inaccuracy
 
 This repository contains the solution for the Biomed Datathon 2024 organized by the mHealth Lab, Department of BME, BUET. Team Cookie Monsters participated in this competition, and the goal was to develop a solution for the given biomedical problem.
 
