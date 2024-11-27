@@ -3,8 +3,8 @@
 This repository contains the solution for the Biomed Datathon 2024 organized by the mHealth Lab, Department of BME, BUET. Team Cookie Monsters participated in this competition, and the goal was to develop a solution for the given biomedical problem.
 
 ## Team Members
-- *Apurba Sarker*
-- *Mashaekh Tausif Ehsan* (CSE-18, BUET)
+- *Apurba Sarker* (ME-18, BUET)
+- *Mashaekh Tausif Ehsan* (ME-18, BUET)
 - *Mohammad Ismail* (ME-18, BUET)
 
 ## Overview
