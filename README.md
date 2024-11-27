@@ -17,5 +17,3 @@ To get started with the repository, clone it and install the necessary dependenc
 
 ```bash
 git clone https://github.com/yourusername/biomed-datathon-2024.git
-cd biomed-datathon-2024
-pip install -r requirements.txt
