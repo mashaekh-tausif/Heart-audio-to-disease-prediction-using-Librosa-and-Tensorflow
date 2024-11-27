@@ -9,7 +9,7 @@ This repository contains the solution for the Biomed Datathon 2024 organized by 
 
 ## Overview
 
-This project contains the solution for the competition's Kaggle round, where our team achieved 7th place. Our approach focuses on [insert your approach briefly here, such as using machine learning models, data preprocessing, feature engineering, etc.].
+This project contains the solution for the competition's Kaggle round, where our team achieved 7th place.
 
 ## Installation
 
