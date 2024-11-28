@@ -16,4 +16,4 @@ This project contains the solution for the competition's Kaggle round, where our
 To get started with the repository, clone it and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/biomed-datathon-2024.git
+git clone https://github.com/yourusername/biomed-datathon-2024.git](https://github.com/mashaekh-tausif/Heart-audio-to-disease-prediction-using-Librosa-and-Tensorflow.git
